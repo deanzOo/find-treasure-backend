@@ -1,0 +1,25 @@
+# dependencies
+/node_modules
+.node_modules
+
+# code coverage reports
+/.nyc_output
+/coverage
+
+# IDEs and editors
+/.idea
+
+# IDE - VSCode
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+.history/*
+
+# System Files
+.DS_Store
+Thumbs.db
+
+# Configuration
+configs/config.js
